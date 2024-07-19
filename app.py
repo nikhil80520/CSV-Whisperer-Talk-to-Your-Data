@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from dotenv import load_dotenv
 from pandasai.llm.google_gemini import GoogleGemini
-from pandasai import    SmartDataframe
+from pandasai import  SmartDataframe
 import os
 
 load_dotenv()
@@ -42,3 +42,4 @@ if input_csv is not None:
               st.info(f'Your query: {input_text}')
               result=chat_with_csv(data,input_text)
               st.success(result)
+

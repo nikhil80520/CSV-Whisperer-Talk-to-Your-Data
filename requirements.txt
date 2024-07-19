@@ -1,3 +1,5 @@
-streamlit 
+pandas==1.5.3
+numpy==1.23.4
+streamlit==1.36.0
 pandasai
 python-dotenv
