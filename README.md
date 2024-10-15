@@ -1,5 +1,3 @@
-Here’s a **README** file tailored to your project titled **CSV Whisperer: Talk to Your Data**:
-
 ---
 
 # 📊 CSV Whisperer: Talk to Your Data  
